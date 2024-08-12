@@ -1,1 +1,1 @@
-# This Repository contains solutions to leetcode questions mostly on the concepts of DSA
+# This Repository contains solutions to leetcode solutions mostly on the concepts of DSA
